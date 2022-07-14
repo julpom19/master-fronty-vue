@@ -1,35 +1,12 @@
-# master-fronty-vue
+# Master Fronty
 
-This template should help get you started developing with Vue 3 in Vite.
+Development is in progress. Master Fronty will be a website where users can test their knowledge in the area of Frontend world. 
+Users can take quizzes about Javascript, HTML and CSS. Also, there is a history of user quiz results. To take quizzes user must authorize.  
 
-## Recommended IDE Setup
+## Tech-Stack
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+* Language: Javascript ES6+
+* Libraries: Vue, Vue Router, Pinia
+* UI Library: Quasar
+* Authentication: Firebase Authentication
+* DB: Firestore Database
